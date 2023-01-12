@@ -2,12 +2,15 @@ if(keyboard_check_pressed(vk_enter)){
 	switch(room){
 		case rm_start:
 			room_goto(rm_game);
+			score = 0;
 			break;	
 		case rm_win:
 			game_restart();
+			score = 0;
 			break;	
 		case rm_gameover:
 			game_restart();
+			score = 0;
 			break;
 	}
 }
