@@ -9,6 +9,7 @@
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
     {"id":{"name":"msc_song","path":"sounds/msc_song/msc_song.yy",},"order":4,},
     {"id":{"name":"Obj_ship","path":"objects/Obj_ship/Obj_ship.yy",},"order":0,},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":6,},
     {"id":{"name":"spr_Small_Asteroid","path":"sprites/spr_Small_Asteroid/spr_Small_Asteroid.yy",},"order":1,},
     {"id":{"name":"Obj_asteroid","path":"objects/Obj_asteroid/Obj_asteroid.yy",},"order":1,},
     {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},"order":0,},
