@@ -9,3 +9,13 @@ if(instance_exists(target)){
 }
 
 camera_set_view_pos(view_camera[0], global.cameraX, global.cameraY);
+
+layer_x("Parallax0", global.cameraX*.98);
+layer_y("Parallax0", global.cameraY*.98);
+
+layer_x("Parallax1", global.cameraX*.92);
+layer_y("Parallax1", global.cameraY*.92);
+
+layer_x("Parallax2", global.cameraX*.9);
+layer_y("Parallax2", global.cameraY*.9);
+
